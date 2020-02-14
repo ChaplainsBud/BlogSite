@@ -9,10 +9,16 @@ html, body {
     height: 100%;
 }
 
+.wrap {
+    min-height: 100%;
+}
 
 /* experimenting above */
 
 body {
+    /*test*/
+    height: 100%;
+    /*test*/
     font-family: 'Sriracha', cursive;
     background-image: url("../img/blog-background.jpg");
     background-size: cover;
@@ -33,7 +39,7 @@ main {
 
 footer {
   display: flex;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100%;
    /*hack*/
