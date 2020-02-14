@@ -1,0 +1,15 @@
+
+body {
+    font-family: 'Sriracha', cursive;
+    background-image: url("../img/blog-background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#card-arrangement {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
