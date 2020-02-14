@@ -42,6 +42,14 @@ _There should be a profile page for the blog's author that includes their
 (LinkedIn, GitHub, Twitter, Facebook, etc.)._
 
 ```
+<i class="fab fa-linkedin"></i>
+<i class="fab fa-github-square"></i>
+<i class="fab fa-github-square"></i>
+<i class="fab fa-github-square"></i>
+```
+
+
+```
 /*Home Page
 6 Blog Pages
 Author Page: Name, GitHub, LeroeLeroe, Quod Erat Demonstrandum, LinkedIn/MatthewLeroe
@@ -50,6 +58,8 @@ Author Page: Name, GitHub, LeroeLeroe, Quod Erat Demonstrandum, LinkedIn/Matthew
  
 _The social media links should 
 also include icons representative of which social media platform._
+
+
 
 ```
 // Font Awesome
@@ -69,5 +79,6 @@ _3 Categories for Blogs:_
  1. GitHub  
  2. Program Design & Algorithms
  3. HTML/CSS/Bootstrap
+  
   
   

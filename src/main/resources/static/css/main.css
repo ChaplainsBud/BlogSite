@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+}
 
 body {
     font-family: 'Sriracha', cursive;
@@ -12,4 +15,34 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+}
+
+footer {
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+/*hack*/
+  background-color: deepskyblue;
+}
+
+i:hover {
+    color: gold;
+}
+
+.fgroup-1 {
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+}
+
+.fgroup-2 {
+    background-color: deepskyblue;
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+}
+
+.fgroup-2 p {
+    font-size: 0.5rem;
 }
